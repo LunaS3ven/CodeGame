@@ -1,14 +1,14 @@
 return {
-	"SorryForDelay",
-	"ReRelease",
-	"SORRY4REVERT",
-	"FCGONE",
-	"UPDHYPE",
-	"2KCCU",
-	"1.5KCCU",
-	"WINTERENDS",
-	"Sorryforbugs!",
-	"UPDATE2SOON!",
-	"4KLIKES",
-	"3KLIKES"
+SorryForDelay
+ReRelease
+SORRY4REVERT
+FCGONE
+UPDHYPE
+2KCCU
+1.5KCCU
+WINTERENDS
+Sorryforbugs!
+UPDATE2SOON!
+4KLIKES
+3KLIKES
 }
