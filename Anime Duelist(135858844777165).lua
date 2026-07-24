@@ -1,4 +1,4 @@
---July/23/2026
+--07/23/2026
 return {
 BATTLEPASS
 SHUTDOWN1
