@@ -1,4 +1,13 @@
--- 08/10/2026
+-- 08/12/2026
+bugsfixed!
+30kfavs
+sorryforshut
+20kfavs
+25kfavs
+RELEASEPT3F
+1MVISITS
+4KLIKES
+5KLIKES
 thanksfor5k
 15kfavs
 10kfavs
